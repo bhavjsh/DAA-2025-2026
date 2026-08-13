@@ -28,4 +28,4 @@ int main()
         cout << "Not found";// if the element is not found in the array
 
     return 0;
-}
+}  
