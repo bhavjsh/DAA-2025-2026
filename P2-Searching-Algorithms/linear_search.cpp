@@ -22,7 +22,6 @@ int main()
             cout << "Found at index " << i;
             break;  // stop searching
         }
-        }
     }
     if (i==size)
         cout << "Not found";// if the element is not found in the array
